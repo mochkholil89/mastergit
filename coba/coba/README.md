@@ -1,2 +1,0 @@
-# mastergit
-Belajar menggunakan git
